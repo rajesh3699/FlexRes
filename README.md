@@ -1,4 +1,4 @@
-# Aperture
+# FlexRes: Flexible ResNet with Reduced Parameters
 
 Modified residual network (ResNet) architecture trained on CIFAR-10 image classification dataset, with **total number of trainable parameters less than 5 million**.
 
